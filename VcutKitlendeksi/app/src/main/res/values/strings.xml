@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BMI(Vücut Kitle Hesaplama)</string>
+    <string name="banner_ad_unit_id">ca-app-pub-9399318819724364/8645084192</string>
+    <string name="rnek_1_72">(Örnek:1.72)</string>
+    <string name="boy">Boy</string>
+    <string name="kilo">Kilo</string>
+    <string name="rnek_70">(Örnek:70.0)</string>
+    <string name="erkek">Erkek</string>
+    <string name="kad_n">Kadın</string>
+    <string name="hesapla">HESAPLA</string>
+    <string name="yen_le">YENİLE</string>
+    <string name="v_cut_k_tle_endeksi">Vücut Kitle Endeksi:</string>
+    <string name="kilonuz">Kilonuz:</string>
+    <string name="g_nl_k_kalori_miktari">Günlük Kalori Miktarı:</string>
+    <string name="deal_kilonuz">İdeal Kilonuz:</string>
+
+</resources>

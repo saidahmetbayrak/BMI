@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "165263561764",
+    "firebase_url": "https://vcutkitlendeksi.firebaseio.com",
+    "project_id": "vcutkitlendeksi",
+    "storage_bucket": "vcutkitlendeksi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165263561764:android:da8b15e7443e9cb3",
+        "android_client_info": {
+          "package_name": "saidahmetbayrak.sab.saidahmetbayrak.vcutkitlendeksi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165263561764-e2n4elk94lhltgiumo3lj14ql4p6v906.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "saidahmetbayrak.sab.saidahmetbayrak.vcutkitlendeksi",
+            "certificate_hash": "88c01816cf28286661112bc80c2683dddbd75359"
+          }
+        },
+        {
+          "client_id": "165263561764-gf0sttbgfhvsj1difq76brhrqu1h6g47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBStk_EmPDH-db-luYLE_u3dYqgtMGoUk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165263561764-gf0sttbgfhvsj1difq76brhrqu1h6g47.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
